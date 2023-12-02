@@ -1,3 +1,4 @@
+Sistem ini merupakan implementasi project PHP yang dirancang untuk mendata informasi terkait penggajian dosen untuk memberikan informasi kepada banyak pengguna dalam suatu organisasi/entitas dengan menggunakan framework PHP 5.3.7
 # Flowchart
 ![ul](https://github.com/Solehudin3123/Sistem-penggajian/assets/152485242/04bb892e-c891-4a2c-aac9-c2a05f3475d2)
 # ERD
